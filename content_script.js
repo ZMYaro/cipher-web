@@ -66,7 +66,11 @@ var quotes = [
 	'I say the first thing that comes to my...mouth?',
 	'The shit I say is great!',
 	'The only things I know about silicone are that there\'s a valley full of it and it\'s used in fake boobs',
-	'Your earrings look like kidney stones, and they\'re giving me anxiety'
+	'Your earrings look like kidney stones, and they\'re giving me anxiety',
+	'You will be at my side, bowing before me',
+	'I want a Phallus Chalice',
+	'I\'d rather have a live birth on in the background during sex than Eternal Sunshine Of The Spotless Mind',
+	'My tongue is a glorious part of my body'
 ];
 
 /**

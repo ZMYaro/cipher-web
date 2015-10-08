@@ -3,7 +3,7 @@
 	
 	"name": "Cipher Web",
 	"description": "Finds any mention of the original Cipher_Peon on a website and inserts a quote from @ThingsCipherSez",
-	"version": "1.0",
+	"version": "1.0.1",
 	
 	"icons": {
 		"16": "icon_16.png",
